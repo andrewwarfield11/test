@@ -1,2 +1,2 @@
 # test
-# this a test of git!
+# This a test of git!
